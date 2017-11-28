@@ -1,3 +1,5 @@
+# DEPRECATION NOTICE: THIS REPO HAS BEEN MOVED TO [https://github.com/cloudlibz/nodecloud](CloudLibz)
+
 # NodeCloud
 
 [![npm version](https://badge.fury.io/js/nodecloud.svg)](https://badge.fury.io/js/nodecloud)
