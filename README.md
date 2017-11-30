@@ -1,4 +1,4 @@
-# DEPRECATION NOTICE: THIS REPO HAS BEEN MOVED TO [https://github.com/cloudlibz/nodecloud](CloudLibz)
+# DEPRECATION NOTICE: THIS REPO HAS BEEN MOVED TO [https://github.com/cloudlibz/nodecloud](https://github.com/cloudlibz/nodecloud)
 
 # NodeCloud
 
